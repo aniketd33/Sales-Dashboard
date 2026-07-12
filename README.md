@@ -145,7 +145,7 @@ Sales-Dashboard/
 **Aniket A. Dombale**
 
 - GitHub: https://github.com/aniketd33
-- LinkedIn: https://linkedin.com/in/aniket Dombale
+- LinkedIn: https://linkedin.com/in/aniketDombale
 
 ---
 
